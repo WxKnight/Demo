@@ -1,0 +1,22 @@
+{
+    "name": "com.yoozoo.lwxN3Work",
+    "version": "0.0.1",
+    "displayName": "Lwx Package Example",
+    "description": "This is an example package",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+      "com.yoozoo.lwxN3Work": "https://github.com/WxKnight/Talk_Artist.git"
+   },
+   "keywords": [
+      "Debug"
+    ],
+    "author": {
+      "name": "lwx",
+      "email": "lwx@example.com",
+      "url": "https://www.unity3d.com"
+    }
+  }
