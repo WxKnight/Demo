@@ -9,7 +9,6 @@
     "changelogUrl": "https://example.com/changelog.html",
     "licensesUrl": "https://example.com/licensing.html",
     "dependencies": {
-      "com.yoozoo.lwxN3Work": "https://github.com/WxKnight/Demo.git"
    },
    "keywords": [
       "Debug"
